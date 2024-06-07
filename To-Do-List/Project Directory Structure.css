@@ -1,0 +1,10 @@
+ToDoApp/
+├── src/
+│   └── com/
+│       └── mycompany/
+│           └── todo/
+│               ├── Main.java
+│               ├── ToDoList.java
+│               └── ToDoItem.java
+├── .gitignore
+└── README.md

@@ -1,4 +1,4 @@
-package com.example.todo;
+package com.mycompany.todo;
 
 import java.util.Scanner;
 
